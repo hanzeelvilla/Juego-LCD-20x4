@@ -5,7 +5,7 @@ terminó como un proyecto y se ve GOD.
 
 Wowki  
 [https://wokwi.com/projects/408307126785754113](https://wokwi.com/projects/408307126785754113)
-
+![Creadores](creadores.png)
 ## Componentes necesarios
 
 * ESP32
